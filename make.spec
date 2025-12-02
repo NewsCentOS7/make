@@ -8,7 +8,7 @@ Release: 4%{?dist}
 License: GPLv2+
 Group: Development/Tools
 URL: http://www.gnu.org/software/make/
-Source: ftp://ftp.gnu.org/gnu/make/make-%{version}.tar.bz2
+Source: https://ftp.gnu.org/gnu/make/make-%{version}.tar.bz2
 
 Patch1: make-4.2-noclock_gettime.patch
 Patch2: make-4.2-j8k.patch
